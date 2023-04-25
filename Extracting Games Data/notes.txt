@@ -1,1 +1,2 @@
 
+The scraped data is uploaded <a href="https://www.kaggle.com/datasets/sinaghafouri/video-games-on-metacriticcom">here</a>
