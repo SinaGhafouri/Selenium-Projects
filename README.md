@@ -1,1 +1,3 @@
 # Selenium-Projects
+
+The scraped data is uploaded here: https://www.kaggle.com/datasets/sinaghafouri/video-games-on-metacriticcom
